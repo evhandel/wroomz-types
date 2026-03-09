@@ -1,0 +1,12 @@
+# Собранные файлы и директории
+build/
+dist/
+coverage/
+node_modules/
+
+# Другие файлы, которые не нужно форматировать
+package-lock.json
+yarn.lock
+.prettierrc
+*.md
+*.svg 

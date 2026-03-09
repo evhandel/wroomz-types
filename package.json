@@ -1,0 +1,28 @@
+{
+    "name": "@evhandel/wroomz-types",
+    "version": "1.0.0",
+    "description": "Shared TypeScript types for Wroomz project",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "prepare": "npm run build",
+        "watch": "tsc -w",
+        "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,css,scss}\" --tab-width 4"
+    },
+    "files": [
+        "dist"
+    ],
+    "keywords": [
+        "typescript",
+        "types",
+        "wroomz"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.0.0",
+        "prettier": "^3.5.3",
+        "typescript": "^5.0.0"
+    }
+}
