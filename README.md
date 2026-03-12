@@ -1,6 +1,12 @@
-# wroomz-types
+# @evhandel/wroomz-types
 
-Shared TypeScript types for the Wroomz kart racing ecosystem. Used by both frontend and backend via `"wroomz-types": "file:../wroomz-types"`.
+Shared TypeScript types for the Wroomz kart racing ecosystem.
+
+## Installation
+
+```bash
+npm install @evhandel/wroomz-types
+```
 
 ## Structure
 
@@ -17,7 +23,7 @@ src/
 ## Usage
 
 ```typescript
-import { RaceResponse, RaceSettings, CreateRaceRequest } from 'wroomz-types';
+import { RaceResponse, RaceSettings, CreateRaceRequest } from '@evhandel/wroomz-types';
 ```
 
 ## Scripts

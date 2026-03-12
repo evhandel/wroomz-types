@@ -13,6 +13,14 @@
     "files": [
         "dist"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/evhandel/wroomz-types.git"
+    },
+    "homepage": "https://github.com/evhandel/wroomz-types#readme",
+    "bugs": {
+        "url": "https://github.com/evhandel/wroomz-types/issues"
+    },
     "keywords": [
         "typescript",
         "types",
