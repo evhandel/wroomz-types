@@ -1,5 +1,7 @@
 # @evhandel/wroomz-types
 
+[![npm version](https://img.shields.io/npm/v/@evhandel/wroomz-types)](https://www.npmjs.com/package/@evhandel/wroomz-types)
+
 Shared TypeScript types for the Wroomz kart racing ecosystem.
 
 ## Installation
